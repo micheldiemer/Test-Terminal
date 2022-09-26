@@ -6,7 +6,8 @@ Written in C++
 
 ### Output
 
-- ASCII characters
+- ASCII printeable characters
+- ASCII control codes eg BEL CR LF BS TAB VT FF ESC ...
 - Code pages
 - Formatting : align left, align right
 - Unicode characters
