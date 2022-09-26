@@ -11,7 +11,7 @@
 ### Output
 
 - ASCII printeable characters
-- ![Comparaison of 1-byte character encodings](https://i.stack.imgur.com/byOVk.png)
+- [Comparaison of 1-byte character encodings](https://i.stack.imgur.com/byOVk.png)
 - ASCII control codes eg BEL CR LF BS TAB VT FF ESC ...
 - Code pages
 - Formatting : align left, align right, fill ...
@@ -30,3 +30,4 @@
 - Emojis and ZWJ emojis
 
 
+![Comparaison of 1-byte character encodings](https://i.stack.imgur.com/byOVk.png)
